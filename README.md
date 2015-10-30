@@ -1,3 +1,7 @@
+# 前端资源合集
+
+> 引自 http://f2er.club/
+
 ## 手册、工具
 
 ### 手册
@@ -87,9 +91,9 @@
 
 #### 图片压缩/合并
 * [placehold](http://placehold.it/)
-(https://tinypng.com/"  target="_blank">tinypng]
-(http://alloyteam.github.io/gopng/"  target="_blank">gopng]
-(http://spritegen.website-performance.org/"  target="_blank">spritegen]
+* [tinypng](https://tinypng.com/)
+* [gopng](http://alloyteam.github.io/gopng/)
+* [spritegen](http://spritegen.website-performance.org/)
 * [spritecow](http://www.spritecow.com/)
 * [智图](http://zhitu.isux.us/)
 
@@ -595,6 +599,7 @@
 * [html5rocks](http://www.html5rocks.com/en/)
 
 ### 国内团队
+* [淘宝前端团队](http://taobaofed.org/)
 * [奇舞团](http://www.75team.com/)
 * [携程UED](http://ued.ctrip.com/blog/)
 * [百度FEX](http://fex.baidu.com/)

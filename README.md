@@ -259,6 +259,7 @@
 * [css3test](http://css3test.com/)
 
 ##### 多终端检查/测试
+* [puppeteer](https://github.com/GoogleChrome/puppeteer)
 * [responsinator](http://www.responsinator.com/)
 * [resizemybrowser](http://resizemybrowser.com/)
 * [responsive](http://mattkersley.com/responsive/)
@@ -371,6 +372,7 @@
 ##### js
 * [Jquery](http://jquery.com/)
 * [zeptojs](http://www.zeptojs.cn/)
+* [vuejs官方论坛](http://forum.vuejs.org/)
 * [Angularjs(英)](https://angularjs.org/)
 * [Angularjs(中)](http://www.apjs.net/)
 * [Angularjs社区](http://angularjs.cn/)
@@ -378,7 +380,6 @@
 * [React(中)](http://reactjs.cn/)
 * [jslite](http://jslite.io/)
 * [validate表单验证](https://github.com/rickharrison/validate.js)
-* [vuejs官方论坛](http://forum.vuejs.org/)
 * [backbonejs](http://backbonejs.org/)
 * [avalonjs](http://avalonjs.github.io/)
 * [thinkjs](https://thinkjs.org/)
@@ -912,11 +913,14 @@
 * [segmentfault D-DAY](http://segmentfault.com/d-day)
 
 #### 会议
-* [webrebuild](http://webrebuild.org/)
 * [cssconf](http://css.w3ctech.com/)
 * [jsconf](http://2015.jsconf.cn/)
-* [adc·阿里技术嘉年华](http://adc.taobao.com/carnival/)
+* [D2前端技术论坛](http://d2forum.alibaba-inc.com/)
 * [feday](http://www.fequan.com/feday)
+* [QCon全球软件开发大会](http://qconbeijing.com/)
+* [GMTC全球移动技术大会](http://gmtc.geekbang.org/)
+* [腾讯Web前端大会 TFC](https://tfc.alloyteam.com/)
+* [webrebuild](http://webrebuild.org/)
 
 ### 佳文选摘
 
@@ -930,6 +934,7 @@
 * [程序员所具备的素质[转]](http://www.cnblogs.com/Random/articles/390264.html)
 * [重构职业生涯思考](http://www.smallni.com/rebuild-thinking/)
 * [你为什么不分享](http://www.cnblogs.com/coffeedeveloper/p/4825177.html)
+* [陆奇最新演讲：如何成为一个优秀的工程师](https://mp.weixin.qq.com/s?__biz=MzA3OTQyNzcwNw==&mid=2650387426&idx=1&sn=8f47c85367575a4d65608d8d6e4fdcae)
 
 #### 技术好文
 * [一览CSS布局标准](http://hikejun.com/blog/2013/05/03/%E4%B8%80%E8%A7%88css%E5%B8%83%E5%B1%80%E6%A0%87%E5%87%86/)

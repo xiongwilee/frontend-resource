@@ -377,7 +377,7 @@
 * [Angularjs(中)](http://www.apjs.net/)
 * [Angularjs社区](http://angularjs.cn/)
 * [React(英)](https://facebook.github.io/react/)
-* [React(中)](http://reactjs.cn/)
+* [React(中)](https://www.reactjscn.com/)
 * [jslite](http://jslite.io/)
 * [validate表单验证](https://github.com/rickharrison/validate.js)
 * [backbonejs](http://backbonejs.org/)
